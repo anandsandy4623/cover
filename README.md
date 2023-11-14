@@ -117,7 +117,8 @@ footer{
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-14 090255.png>)
+![Screenshot 2023-11-14 090255](https://github.com/anandsandy4623/cover/assets/135193077/5b4f5177-1776-4a65-af13-1cfb39f57936)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
